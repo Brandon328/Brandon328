@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Brandon328
+- 👋 Hi, I’m Brandon
 - 👀 I’m interested in a Frontend-Developer Job
 - 🌱 I’m currently learning Data Structures in Javascript
