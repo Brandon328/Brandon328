@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Brandon328
+- 👀 I’m interested in a Frontend-Developer Job
+- 🌱 I’m currently learning Data Structures in Javascript
