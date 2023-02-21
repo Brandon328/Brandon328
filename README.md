@@ -3,7 +3,9 @@
 - 🌱 I’m currently learning about bundlers
 
 ## Projects
-- [My web (portfolio)](https://brandonjj.com/) 
+- [Moon Cat](https://brandon328.github.io/curso-API-REST-JS/)
+- [SNK Landing Page](https://brandon328.github.io/curso-asincronismo-js/)
+- [AnimationLand](https://brandon328.github.io/AnimationLandCSS/)
 - [Clock app](https://brandon328.github.io/Clock-app/) 
 - [Music Player](https://brandon328.github.io/music-player/) 
 - [Job Listing](https://brandon328.github.io/Reto8-Job-listings/) 
