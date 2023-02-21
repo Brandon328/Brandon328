@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Brandon
 - 👀 I’m interested in a Frontend-Developer Job
-- 🌱 I’m currently learning Asynchrony in Javascript
+- 🌱 I’m currently learning about bundlers
 
 ## Projects
 - [My web (portfolio)](https://brandonjj.com/) 
