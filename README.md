@@ -1,6 +1,11 @@
-- 👋 Hi, I’m Brandon
+<h1 align="center">
+  👋 Hi, I’m Brandon
+</h1>
+
+<h3 align="center">A passionate web developer, I like to develop personal projects and share in linkedin and [my personal web](https://www.brandonjj.com)</h3>
+
 - 👀 I’m interested in a Frontend-Developer Job
-- 🌱 I’m currently learning about bundlers
+- 🌱 I’m currently learning about ReactJS
 - My web? Over here => https://brandonjj.com/
 
 ## Projects
