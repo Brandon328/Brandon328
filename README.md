@@ -25,6 +25,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/2078px-Vitejs-logo.svg.png" width="40px" height="40px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40px" height="40px"/>
 </div>
+
 ## Latest personal projects
 - [PlatziMovies](https://eloquent-heliotrope-b5021d.netlify.app/)
 - [Moon Cat](https://brandon328.github.io/curso-API-REST-JS/)
