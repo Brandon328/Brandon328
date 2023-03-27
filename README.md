@@ -1,9 +1,7 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif"/>
-  <h1 align="center">
-    👋 Hi, I’m Brandon
-  </h1>
-</div>
+<h1 align="center">
+  👋 Hi, I’m Brandon
+</h1>
+
 
 <h4 align="center">A passionate web developer, I like to develop personal projects and share it on linkedin and on my <a href="https://www.brandonjj.com">web</a></h4>
 
@@ -37,3 +35,7 @@
 - [Clock app](https://brandon328.github.io/Clock-app/) 
 - [Music Player](https://brandon328.github.io/music-player/) 
 - [Job Listing](https://brandon328.github.io/Reto8-Job-listings/) 
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+</div>
