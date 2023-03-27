@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://giphy.com/gifs/codeit-official-coding-helloworld-codeit-h408T6Y5GfmXBKW62l"/>
+  <img src="https://giphy.com/embed/h408T6Y5GfmXBKW62l"/>
   <h1 align="center">
     👋 Hi, I’m Brandon
   </h1>
