@@ -1,6 +1,9 @@
-<h1 align="center">
-  👋 Hi, I’m Brandon
-</h1>
+<div align="center">
+  <img src="https://giphy.com/gifs/codeit-official-coding-helloworld-codeit-h408T6Y5GfmXBKW62l"/>
+  <h1 align="center">
+    👋 Hi, I’m Brandon
+  </h1>
+</div>
 
 <h4 align="center">A passionate web developer, I like to develop personal projects and share it on linkedin and on my <a href="https://www.brandonjj.com">web</a></h4>
 
