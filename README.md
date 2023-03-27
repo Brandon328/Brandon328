@@ -37,5 +37,5 @@
 - [Job Listing](https://brandon328.github.io/Reto8-Job-listings/) 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150px"/>
 </div>
