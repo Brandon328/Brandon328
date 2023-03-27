@@ -11,13 +11,15 @@
 </div>
 
 ## About me
-- ✌ Send me an email at **bjhuaman@brandonjj.com**
+- ✌ Send me an email at **bjhuaman@brandonjj.com** or **brandonjameshuaman@gmail.com**
 - 👀 I’m interested in a Frontend-Developer Job
 - 🌱 I’m currently learning about ReactJS
 
 ## Languages and tools:
 
-
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40px" height="40px"/>
+</div>
 ## Latest personal projects
 - [PlatziMovies](https://eloquent-heliotrope-b5021d.netlify.app/)
 - [Moon Cat](https://brandon328.github.io/curso-API-REST-JS/)
