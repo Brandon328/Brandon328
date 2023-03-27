@@ -4,7 +4,11 @@
 
 <h3 align="center">A passionate web developer, I like to develop personal projects and share it on linkedin and on my <a href="https://www.brandonjj.com">web</a></h3>
 
-<div align="center"><a href="https://img.shields.io/badge/%23-linkedin-blue"></a></div>
+<div align="center">
+  <a href="https://www.linkedin.com/in/brandonjj/">
+    <img src="https://img.shields.io/badge/%23-linkedin-blue"/>
+  </a>
+</div>
 
 - 👀 I’m interested in a Frontend-Developer Job
 - 🌱 I’m currently learning about ReactJS
