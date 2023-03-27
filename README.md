@@ -27,7 +27,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="40px" height="40px"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/2078px-Vitejs-logo.svg.png" width="40px" height="40px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40px" height="40px"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" width="40px" height="40px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="40px" height="40px"/>
 </div>
 
 ## Latest personal projects
