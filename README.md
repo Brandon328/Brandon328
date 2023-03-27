@@ -2,7 +2,7 @@
   👋 Hi, I’m Brandon
 </h1>
 
-<h3 align="center">A passionate web developer, I like to develop personal projects and share in linkedin and [my personal web](https://www.brandonjj.com)</h3>
+<h3 align="center">A passionate web developer, I like to develop personal projects and share in linkedin and my <a href="https://www.brandonjj.com">web</a></h3>
 
 - 👀 I’m interested in a Frontend-Developer Job
 - 🌱 I’m currently learning about ReactJS
