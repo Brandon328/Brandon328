@@ -10,10 +10,14 @@
   </a>
 </div>
 
+---
+
 ## About me
 - ✌ Send me an email at **bjhuaman@brandonjj.com** or **brandonjameshuaman@gmail.com**
 - 👀 I’m interested in a Frontend-Developer Job
 - 🌱 I’m currently learning about ReactJS
+
+---
 
 ## Languages and tools:
 
@@ -26,6 +30,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40px" height="40px"/>
 </div>
 
+---
+
 ## Latest personal projects
 - [PlatziMovies](https://eloquent-heliotrope-b5021d.netlify.app/)
 - [Moon Cat](https://brandon328.github.io/curso-API-REST-JS/)
@@ -34,3 +40,5 @@
 - [Clock app](https://brandon328.github.io/Clock-app/) 
 - [Music Player](https://brandon328.github.io/music-player/) 
 - [Job Listing](https://brandon328.github.io/Reto8-Job-listings/) 
+
+---
