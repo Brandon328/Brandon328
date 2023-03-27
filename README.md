@@ -18,7 +18,7 @@
 ## Languages and tools:
 
 
-## Projects
+## Latest personal projects
 - [PlatziMovies](https://eloquent-heliotrope-b5021d.netlify.app/)
 - [Moon Cat](https://brandon328.github.io/curso-API-REST-JS/)
 - [SNK Landing Page](https://brandon328.github.io/curso-asincronismo-js/)
