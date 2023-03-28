@@ -32,7 +32,7 @@
 
 ## Latest personal projects
 <ul>
-  <li display="flex" align-items="center">
+  <li>
     <span>Countries App: </span>
     <a href="https://github.com/Brandon328/countries-api">
       <img src="https://cdn.iconscout.com/icon/free/png-256/github-3691248-3073768.png?f=webp&w=256" width="20px"/>
@@ -42,10 +42,41 @@
       <img src="https://cdn-icons-png.flaticon.com/512/1126/1126301.png" width="20px"/>
     </a>
   </li>
+  <li>
+    <span>PlatziMovies: </span>
+    <a href="https://platzismovies.netlify.app/">
+      <img src="https://cdn-icons-png.flaticon.com/512/1126/1126301.png" width="20px"/>
+    </a>
+  </li>
+  <li>
+    <span>Moon Cat: </span>
+    <a href="https://github.com/Brandon328/curso-API-REST-JS">
+      <img src="https://cdn.iconscout.com/icon/free/png-256/github-3691248-3073768.png?f=webp&w=256" width="20px"/>
+    </a> 
+    <span> / </span> 
+    <a href="https://brandon328.github.io/curso-API-REST-JS/">
+      <img src="https://cdn-icons-png.flaticon.com/512/1126/1126301.png" width="20px"/>
+    </a>
+  </li>
+  <li>
+    <span>SNK Landing Page: </span>
+    <a href="https://brandon328.github.io/curso-asincronismo-js/">
+      <img src="https://cdn.iconscout.com/icon/free/png-256/github-3691248-3073768.png?f=webp&w=256" width="20px"/>
+    </a> 
+    <span> / </span> 
+    <a href="https://github.com/Brandon328/curso-asincronismo-js">
+      <img src="https://cdn-icons-png.flaticon.com/512/1126/1126301.png" width="20px"/>
+    </a>
+  </li>
+  <li>
+    <span>Music Player: </span>
+    <a href="https://brandon328.github.io/music-player/">
+      <img src="https://cdn.iconscout.com/icon/free/png-256/github-3691248-3073768.png?f=webp&w=256" width="20px"/>
+    </a> 
+    <span> / </span> 
+    <a href="https://github.com/Brandon328/music-player">
+      <img src="https://cdn-icons-png.flaticon.com/512/1126/1126301.png" width="20px"/>
+    </a>
+  </li>
 </ul>
-- [PlatziMovies](https://platzismovies.netlify.app/)
-- [Moon Cat](https://brandon328.github.io/curso-API-REST-JS/)
-- [SNK Landing Page](https://brandon328.github.io/curso-asincronismo-js/) 
-- [Music Player](https://brandon328.github.io/music-player/) 
-- [Job Listing](https://brandon328.github.io/Reto8-Job-listings/) 
 
