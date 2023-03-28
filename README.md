@@ -31,7 +31,7 @@
 </div>
 
 ## Latest personal projects
-<ul>
+<ul display="flex">
   <li>
     <span>Countries App: </span> <br>
     <a href="https://github.com/Brandon328/countries-api">
