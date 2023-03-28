@@ -39,7 +39,7 @@
       <img src="https://cdn-icons-png.flaticon.com/512/1126/1126301.png" width="20px"/>
     </a>
     <a href="https://mycountriesapp.netlify.app/">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="20px"/>
+      <img src="https://cdn3.iconfinder.com/data/icons/sociocons/256/github-sociocon.png" width="20px"/>
     </a>
   </li>
 </ul>
