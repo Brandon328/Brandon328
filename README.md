@@ -31,11 +31,10 @@
 </div>
 
 ## Latest personal projects
+- [Countries App](https://mycountriesapp.netlify.app/)
 - [PlatziMovies](https://platzismovies.netlify.app/)
 - [Moon Cat](https://brandon328.github.io/curso-API-REST-JS/)
-- [SNK Landing Page](https://brandon328.github.io/curso-asincronismo-js/)
-- [AnimationLand](https://brandon328.github.io/AnimationLandCSS/)
-- [Clock app](https://brandon328.github.io/Clock-app/) 
+- [SNK Landing Page](https://brandon328.github.io/curso-asincronismo-js/) 
 - [Music Player](https://brandon328.github.io/music-player/) 
 - [Job Listing](https://brandon328.github.io/Reto8-Job-listings/) 
 
