@@ -34,12 +34,12 @@
 - [Countries App](https://mycountriesapp.netlify.app/)
 <ul>
   <li display="flex" align-items="center">
-    <span>Countries App</span>
-    <a href="https://mycountriesapp.netlify.app/">
-      <img src="https://cdn-icons-png.flaticon.com/512/1126/1126301.png" width="20px"/>
-    </a>
+    <span>Countries App: </span>
     <a href="https://mycountriesapp.netlify.app/">
       <img src="https://cdn.iconscout.com/icon/free/png-256/github-3691248-3073768.png?f=webp&w=256" width="20px"/>
+    </a>
+    <a href="https://mycountriesapp.netlify.app/">
+      <img src="https://cdn-icons-png.flaticon.com/512/1126/1126301.png" width="20px"/>
     </a>
   </li>
 </ul>
