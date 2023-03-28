@@ -36,7 +36,7 @@
   <li>
     <span>Countries App</span>
     <a href="https://mycountriesapp.netlify.app/">
-      <img src="https://cdn-icons-png.flaticon.com/512/1126/1126301.png"/>
+      <img src="https://cdn-icons-png.flaticon.com/512/1126/1126301.png" width="20px"/>
     </a>
   </li>
 </ul>
