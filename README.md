@@ -34,11 +34,11 @@
 <ul>
   <li>
     <span>Countries App: </span> <br>
-    <a href="https://github.com/Brandon328/countries-api">
+    <a href="https://github.com/Brandon328/countries-api" color="black">
       <img src="https://cdn.iconscout.com/icon/free/png-256/github-3691248-3073768.png?f=webp&w=256" width="20px"/>
       Repo
     </a> <br>
-    <a href="https://mycountriesapp.netlify.app/">
+    <a href="https://mycountriesapp.netlify.app/" color="black">
       <img src="https://cdn-icons-png.flaticon.com/512/1126/1126301.png" width="20px"/>
       Live URL
     </a> 
