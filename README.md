@@ -33,8 +33,8 @@
 ## Latest personal projects
 - [Countries App](https://mycountriesapp.netlify.app/)
 <ul>
-  <li>
-    <span>Countries App</span><br>
+  <li display="flex" align-items="center">
+    <span>Countries App</span>
     <a href="https://mycountriesapp.netlify.app/">
       <img src="https://cdn-icons-png.flaticon.com/512/1126/1126301.png" width="20px"/>
     </a>
