@@ -31,11 +31,10 @@
 </div>
 
 ## Latest personal projects
-- [Countries App](https://mycountriesapp.netlify.app/)
 <ul>
   <li display="flex" align-items="center">
     <span>Countries App: </span>
-    <a href="https://mycountriesapp.netlify.app/">
+    <a href="https://github.com/Brandon328/countries-api">
       <img src="https://cdn.iconscout.com/icon/free/png-256/github-3691248-3073768.png?f=webp&w=256" width="20px"/>
     </a>
     <a href="https://mycountriesapp.netlify.app/">
