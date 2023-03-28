@@ -36,7 +36,8 @@
     <span>Countries App: </span>
     <a href="https://github.com/Brandon328/countries-api">
       <img src="https://cdn.iconscout.com/icon/free/png-256/github-3691248-3073768.png?f=webp&w=256" width="20px"/>
-    </a> / 
+    </a> 
+    <span> / </span> 
     <a href="https://mycountriesapp.netlify.app/">
       <img src="https://cdn-icons-png.flaticon.com/512/1126/1126301.png" width="20px"/>
     </a>
