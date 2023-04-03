@@ -52,11 +52,11 @@
   </li>
   <li>
     <span>Moon Cat: </span><br>
-    <a href="https://github.com/Brandon328/curso-API-REST-JS">
+    <a href=" https://brandon328.github.io/curso-API-REST-JS/">
       <img src="https://cdn.iconscout.com/icon/free/png-256/github-3691248-3073768.png?f=webp&w=256" width="20px"/>
       Live URL
     </a><br>
-    <a href="https://brandon328.github.io/curso-API-REST-JS/">
+    <a href="https://github.com/Brandon328/curso-API-REST-JS">
       <img src="https://cdn-icons-png.flaticon.com/512/1126/1126301.png" width="20px"/>
       Repo
     </a>
