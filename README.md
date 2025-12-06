@@ -14,7 +14,7 @@
 </div>
 
 ## About me
-- ✌ Send me an email at **bjhuaman@brandonjj.com** or **brandonjameshuaman@gmail.com**
+- ✌ Send me an email at **brandonjameshuaman@gmail.com**
 - 👀 I’m interested in a Frontend-Developer Job
 - 🌱 I’m currently learning about ReactJS
 
